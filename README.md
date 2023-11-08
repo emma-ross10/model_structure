@@ -1,2 +1,2 @@
-# model_structure
-A model sketch to be replicated in my projects
+#tensor.script
+Run each line of code. A should produce a 2x2 tensor of zeros, B should produce a 3x3 tensor of ones, C should produce a 2x2 tensor of random values, F should produce a 1x3 solution to the addition of tensors D and E, I should be the product of tensors G and H, J is a tensor with a winding value of 1's that was made by manual data entry, and M is the product of tensors J and K which have different dimensions.
